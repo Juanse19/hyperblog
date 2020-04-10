@@ -2,8 +2,16 @@ Esta es la historia de Sebastian Losada
 
 Sebastian tiene 22 años y nació en colombia 
 
+Experimento 1
+
+Experimento 2
+
 Mater 1
 
+<<<<<<< HEAD
 Master 2
 
 Mañana nos enfocaremos en su vida laboral 
+=======
+Mañana nos enfocaremos en su vida laboral 
+>>>>>>> experimento
